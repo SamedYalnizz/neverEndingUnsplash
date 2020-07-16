@@ -7,7 +7,8 @@ This learning project is fetching pictures from the Unsplash API and enabling th
 1. Download the repository.
 2. Create a developer account on https://unsplash.com/documentation or Log in to your Account
 3. Create a config.js file and insert: 
-    ```const config = {  
+    ```
+    const config = {  
         API_KEY: "YOUR_API_KEY"
     }
     ```
